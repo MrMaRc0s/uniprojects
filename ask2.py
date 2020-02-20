@@ -1,5 +1,5 @@
 goodchar=['B','b','D','d','G','g','H','h','J','j','K','k','L','l','M','m','N','n','P','p','Q','q','S','s','T','t','V','v','X','x','Z','z']
-endword=[' ','\n']#iparxi atipos kononas pos oti tenioni i le3i vazoume keno opote ta kalipti ola me autin tin lista
+endword=[' ','\n']#iparxi atipos kanonas pos otan tenioni i le3i vazoume keno opote ta kalipti ola me autin tin lista
 badchar=['F','f','C','c','K','k','R','r']
 specialchar=['(',';','.',',','!','-','?',':',')']
 f=open('test.txt','r')

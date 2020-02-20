@@ -1,5 +1,5 @@
 f=open('test.txt','r')
-endword=[' ','\n']#iparxi atipos kononas pos otan tenioni i le3i vazoume keno opote ta kalipti ola me autin tin lista
+endword=[' ','\n']#iparxi atipos kanonas pos otan tenioni i le3i vazoume keno opote ta kalipti ola me autin tin lista
 maxies=['','','','','']
 specialchar=['(',';','.',',','!','-','?',':',')']
 word=''
